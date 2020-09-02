@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BlocklyDuino3/arduino-1.8.5/portable/packages/LinkIt/hardware/linkit_rtos/0.10.18/libraries/LiquidCrystal_I2C" vcs="hg4idea" />
+  </component>
+</project>
